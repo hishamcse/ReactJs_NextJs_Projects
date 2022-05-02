@@ -1,2 +1,2 @@
 # ReactJs_Projects
-Simple react projects covering various react &amp; redux features
+Simple react and nextjs projects covering various react, redux &amp; nextjs features
